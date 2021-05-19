@@ -3,7 +3,7 @@
 
 ### https://www.terraform.io/docs/providers/google/r/compute_autoscaler.html
 ### https://www.terraform.io/docs/providers/google/r/compute_instance_group_manager.html
-### https://www.terraform.io/docs/providers/google/r/dns_record_set.html
+### https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/dns_resource_dns_record_set
 
 * provider.tf
   * regroupe les informations du fournisseur cloud
